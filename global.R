@@ -30,8 +30,8 @@ df_games <- df_games %>%
 
 ## Modulos Y funciones----
 
-source('modulos/valueboxmodule.R')
-source('modulos/datamodule.R')
-source('modulos/lineplotmodule.R')
-source('modulos/reportmodule.R')
-source('r/funciones.R')
+source('R/mod_valuebox.R')
+source('R/mod_data.R')
+source('R/mod_lineplot.R')
+source('R/mod_report.R')
+source('R/funciones.R')
